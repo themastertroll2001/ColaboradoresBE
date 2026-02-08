@@ -15,14 +15,14 @@ Este proyecto corresponde al backend de un sistema de gestión de colaboradores,
 
 ## Estructura del proyecto
 src/
-├── controllers/
-│   └── colaboradorcontroller.js
-├── route/
-│   └── colaboradorruta.js
-├── services/
-│   └── colaboradorservice.js
-├── app.js
-└── db.js
+ controllers/
+ colaboradorcontroller.js
+route/
+ colaboradorruta.js
+ services/
+ colaboradorservice.js
+ app.js
+ db.js
 
 ## Instalación y ejecución
 Ingresamos desde carpeta DATOSEMPLEADOSBE e instalamos dependencias con NPM INSTALL
